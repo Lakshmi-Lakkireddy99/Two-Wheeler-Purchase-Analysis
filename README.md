@@ -5,7 +5,7 @@ This project analyzes the purchase patterns of two wheeler buyers using Excel.
 It includes data cleaning, formula applications, Pivot Tables, and a Dashboard to visualize insights.
 
 ## Data
-- Columns: Buyer ID, Marital Status, Gender, Income, Children, Education level, Occupation, Home Owner, Cars owned, Commute Distance, Region, Age, Age Group, Purchased Two Wheeler
+- Columns: Buyer_ID, Marital_Status, Gender, Income, No_of_Children, Education_Level, Occupation, Home_Owner, Cars_owned, Commute_Distance, Region, Age, Age_Group, Purchased Two Wheeler
 - Data is cleaned using Excel formulas: TRIM, PROPER, IFS
 
 ## Key Analysis
