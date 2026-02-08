@@ -22,14 +22,14 @@ It includes data cleaning, formula applications, Pivot Tables, and a Dashboard t
 ## Tools Used
 - Microsoft Excel (Formulas, Pivot Tables, Dashboard)
 
+## Dashboard
+Here is the Dashboard showing the two wheeler purchase trends:
+![Dashboard](Dashboard.png)
+
 ## Data Cleaning
 ![Data Cleaning](Data_Cleaning.png)
 
 ## Pivot Table Analysis
 The Pivot Table summarizes key insights:
 ![Pivot Table](Pivot_table.png)
-
-## Dashboard
-Here is the Dashboard showing the two wheeler purchase trends:
-![Dashboard](Dashboard.png)
 
